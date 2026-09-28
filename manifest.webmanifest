@@ -1,0 +1,23 @@
+{
+ "name": "Focus Flow Double",
+ "short_name": "Double",
+ "description": "a body doubling focus planner: pick a task, start the work-with-me timer (alone, on a call, or with a named partner), let the session log show you that you did more than you think — with a task ladder, break reminders, and accountability streaks. Nothing leaves your device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF7F2",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
